@@ -1,0 +1,2 @@
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\publish\win-x64\AutoTrans.pdb
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\publish\win-x64\AutoTrans.exe

@@ -1,0 +1,16 @@
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\AutoTrans.exe
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\AutoTrans.deps.json
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\AutoTrans.runtimeconfig.json
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\AutoTrans.dll
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\bin\Release\net8.0-windows\AutoTrans.pdb
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.Form1.resources
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.csproj.GenerateResource.cache
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.AssemblyInfoInputs.cache
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.AssemblyInfo.cs
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.csproj.CoreCompileInputs.cache
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.dll
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\refint\AutoTrans.dll
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.pdb
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\AutoTrans.genruntimeconfig.cache
+C:\Users\Main User New\Desktop\Projects\C#\AutoTrans\AutoTrans\obj\Release\net8.0-windows\ref\AutoTrans.dll

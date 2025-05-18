@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "6q3JZGDDtjo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Main User New\\Desktop\\Projects\\C#\\AutoTrans\\AutoTrans\\AutoTrans.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Main User New\\.nuget\\packages\\languagedetection\\1.2.0\\languagedetection.1.2.0.nupkg.sha512",
+    "C:\\Users\\Main User New\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+    "C:\\Users\\Main User New\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.15\\microsoft.netcore.app.runtime.win-x86.8.0.15.nupkg.sha512",
+    "C:\\Users\\Main User New\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.15.nupkg.sha512",
+    "C:\\Users\\Main User New\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.15\\microsoft.aspnetcore.app.runtime.win-x86.8.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LanguageDetection 1.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LanguageDetection",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
